@@ -1,0 +1,347 @@
+D:\1806\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+D:\1806\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+D:\1806\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+D:\1806\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form1.resources
+D:\1806\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form5.resources
+D:\1806\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form3.resources
+D:\1806\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form4.resources
+D:\1806\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form6.resources
+D:\1806\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form7.resources
+D:\1806\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+D:\1806\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.Cache
+D:\1806\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+D:\1806\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+D:\1806\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csprojResolveAssemblyReference.cache
+F:\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+F:\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+F:\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+F:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csprojAssemblyReference.cache
+F:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+F:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.cache
+F:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.CoreCompileInputs.cache
+F:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+F:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+C:\Users\李伟军\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+C:\Users\李伟军\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+C:\Users\李伟军\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+C:\Users\李伟军\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csprojAssemblyReference.cache
+C:\Users\李伟军\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form1.resources
+C:\Users\李伟军\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form5.resources
+C:\Users\李伟军\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form3.resources
+C:\Users\李伟军\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form4.resources
+C:\Users\李伟军\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form6.resources
+C:\Users\李伟军\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form7.resources
+C:\Users\李伟军\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+C:\Users\李伟军\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.cache
+C:\Users\李伟军\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.CoreCompileInputs.cache
+C:\Users\李伟军\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+C:\Users\李伟军\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+G:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+G:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+G:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+G:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csprojAssemblyReference.cache
+G:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form1.resources
+G:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form5.resources
+G:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form3.resources
+G:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form4.resources
+G:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form6.resources
+G:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form7.resources
+G:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+G:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.cache
+G:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.CoreCompileInputs.cache
+G:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+G:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+G:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.CPTMain.resources
+F:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+F:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+F:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+F:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csprojAssemblyReference.cache
+F:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.CPTMain.resources
+F:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form1.resources
+F:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form5.resources
+F:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form3.resources
+F:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form4.resources
+F:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form6.resources
+F:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form7.resources
+F:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+F:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.cache
+F:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.CoreCompileInputs.cache
+F:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+F:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+E:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+E:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+E:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+E:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csprojAssemblyReference.cache
+E:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.CPTMain.resources
+E:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form1.resources
+E:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form5.resources
+E:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form3.resources
+E:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form4.resources
+E:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form6.resources
+E:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form7.resources
+E:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+E:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.cache
+E:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.CoreCompileInputs.cache
+E:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+E:\欢乐五子棋\四\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+C:\Users\dell\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+C:\Users\dell\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+C:\Users\dell\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+C:\Users\dell\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+C:\Users\dell\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+C:\Users\dell\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.CPTMain.resources
+C:\Users\dell\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form4.resources
+C:\Users\dell\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form6.resources
+C:\Users\dell\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form7.resources
+C:\Users\dell\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+C:\Users\dell\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.MainForm.resources
+C:\Users\dell\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.EVWMain.resources
+C:\Users\dell\Desktop\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Setting.resources
+D:\我的文件\C#五子棋项目\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csprojAssemblyReference.cache
+D:\我的文件\C#五子棋项目\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.CPTMain.resources
+D:\我的文件\C#五子棋项目\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.MainForm.resources
+D:\我的文件\C#五子棋项目\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.EVWMain.resources
+D:\我的文件\C#五子棋项目\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Setting.resources
+D:\我的文件\C#五子棋项目\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form4.resources
+D:\我的文件\C#五子棋项目\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form6.resources
+D:\我的文件\C#五子棋项目\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Form7.resources
+D:\我的文件\C#五子棋项目\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+D:\我的文件\C#五子棋项目\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.cache
+D:\我的文件\C#五子棋项目\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.CoreCompileInputs.cache
+D:\我的文件\C#五子棋项目\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+D:\我的文件\C#五子棋项目\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+D:\我的文件\C#五子棋项目\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+D:\我的文件\C#五子棋项目\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+D:\我的文件\C#五子棋项目\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+E:\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+E:\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+E:\1806李伟军\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+E:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.CPTMain.resources
+E:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.MainForm.resources
+E:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.EVWMain.resources
+E:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+E:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.cache
+E:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+E:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+E:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.IPForm.resources
+E:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.JGForm.resources
+E:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.BGLuJingForm.resources
+E:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csprojAssemblyReference.cache
+E:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.CoreCompileInputs.cache
+F:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.CPTMain.resources
+F:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.MainForm.resources
+F:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.EVWMain.resources
+F:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.IPForm.resources
+F:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.JGForm.resources
+F:\1806李伟军\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.BGLuJingForm.resources
+C:\Users\李伟军\Desktop\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+C:\Users\李伟军\Desktop\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+C:\Users\李伟军\Desktop\欢乐五子棋DL\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+C:\Users\李伟军\Desktop\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csprojAssemblyReference.cache
+C:\Users\李伟军\Desktop\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.CPTMain.resources
+C:\Users\李伟军\Desktop\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.MainForm.resources
+C:\Users\李伟军\Desktop\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.EVWMain.resources
+C:\Users\李伟军\Desktop\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.IPForm.resources
+C:\Users\李伟军\Desktop\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.JGForm.resources
+C:\Users\李伟军\Desktop\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.BGLuJingForm.resources
+C:\Users\李伟军\Desktop\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+C:\Users\李伟军\Desktop\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.cache
+C:\Users\李伟军\Desktop\欢乐五子棋DL\欢乐五子棋\obj\Debug\hlwzq.csproj.CoreCompileInputs.cache
+C:\Users\李伟军\Desktop\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+C:\Users\李伟军\Desktop\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+C:\Users\李伟军\Desktop\欢乐五子棋DL\欢乐五子棋\obj\Debug\欢乐五子棋.QPYS.resources
+E:\欢乐五子棋DL，最新的\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+E:\欢乐五子棋DL，最新的\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+E:\欢乐五子棋DL，最新的\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.CPTMain.resources
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.MainForm.resources
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.EVWMain.resources
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.IPForm.resources
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.JGForm.resources
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.BGLuJingForm.resources
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.QPYS.resources
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.cache
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\bin\Debug\Interop.WMPLib.dll
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\bin\Debug\AxInterop.WMPLib.dll
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\Interop.WMPLib.dll
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\AxInterop.WMPLib.dll
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\hlwzq.csproj.ResolveComReference.cache
+E:\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\hlwzq.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\hlwzq.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\bin\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\hlwzq.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.CPTMain.resources
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.MainForm.resources
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.EVWMain.resources
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.IPForm.resources
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.JGForm.resources
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.BGLuJingForm.resources
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\欢乐五子棋.QPYS.resources
+C:\Users\dell\Desktop\欢乐五子棋DL，最新的 - 副本\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.Cache
+F:\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+F:\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+F:\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+F:\欢乐五子棋\欢乐五子棋\bin\Debug\Interop.WMPLib.dll
+F:\欢乐五子棋\欢乐五子棋\bin\Debug\AxInterop.WMPLib.dll
+F:\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csprojAssemblyReference.cache
+F:\欢乐五子棋\欢乐五子棋\obj\Debug\Interop.WMPLib.dll
+F:\欢乐五子棋\欢乐五子棋\obj\Debug\AxInterop.WMPLib.dll
+F:\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.ResolveComReference.cache
+F:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.CPTMain.resources
+F:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.MainForm.resources
+F:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.EVWMain.resources
+F:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.IPForm.resources
+F:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.JGForm.resources
+F:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.BGLuJingForm.resources
+F:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+F:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.QPYS.resources
+F:\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.cache
+F:\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.CoreCompileInputs.cache
+F:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+F:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+E:\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+E:\欢乐五子棋\欢乐五子棋\obj\Debug\Interop.WMPLib.dll
+E:\欢乐五子棋\欢乐五子棋\obj\Debug\AxInterop.WMPLib.dll
+E:\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.ResolveComReference.cache
+E:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+E:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\obj\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.CPTMain.resources
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.MainForm.resources
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.EVWMain.resources
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.QPYS.resources
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\bin\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\bin\Debug\AxInterop.WMPLib.dll
+E:\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+E:\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+E:\欢乐五子棋\欢乐五子棋\bin\Debug\Interop.WMPLib.dll
+E:\欢乐五子棋\欢乐五子棋\bin\Debug\AxInterop.WMPLib.dll
+E:\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csprojResolveAssemblyReference.cache
+E:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.CPTMain.resources
+E:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.MainForm.resources
+E:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.EVWMain.resources
+E:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.IPForm.resources
+E:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.JGForm.resources
+E:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.BGLuJingForm.resources
+E:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+E:\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.QPYS.resources
+E:\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\obj\Debug\Interop.WMPLib.dll
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\obj\Debug\AxInterop.WMPLib.dll
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.ResolveComReference.cache
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\bin\Debug\Interop.WMPLib.dll
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\bin\Debug\AxInterop.WMPLib.dll
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csprojResolveAssemblyReference.cache
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.CPTMain.resources
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.MainForm.resources
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.EVWMain.resources
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.IPForm.resources
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.JGForm.resources
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.BGLuJingForm.resources
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.QPYS.resources
+F:\A垃圾\最高版本\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.OLMain.resources
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\bin\Debug\Interop.WMPLib.dll
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csprojAssemblyReference.cache
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\Interop.WMPLib.dll
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.ResolveComReference.cache
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.CPTMain.resources
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.MainForm.resources
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.EVWMain.resources
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.IPForm.resources
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.JGForm.resources
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.BGLuJingForm.resources
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.OLMain.resources
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.QPYS.resources
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.cache
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.CoreCompileInputs.cache
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.CopyComplete
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+C:\Users\13369\Desktop\47期入党积极分子培训班账号、操作手手册（发支部）\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+E:\我的文件\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+E:\我的文件\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+E:\我的文件\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+E:\我的文件\欢乐五子棋\欢乐五子棋\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\我的文件\欢乐五子棋\欢乐五子棋\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\我的文件\欢乐五子棋\欢乐五子棋\bin\Debug\Interop.WMPLib.dll
+E:\我的文件\欢乐五子棋\欢乐五子棋\bin\Debug\AxInterop.WMPLib.dll
+E:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\Interop.WMPLib.dll
+E:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\AxInterop.WMPLib.dll
+E:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.ResolveComReference.cache
+E:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.CPTMain.resources
+E:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.MainForm.resources
+E:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.EVWMain.resources
+E:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.OLMain.resources
+E:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+E:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.QPYS.resources
+E:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.cache
+E:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+E:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+H:\我的文件\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.exe.config
+H:\我的文件\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.exe
+H:\我的文件\欢乐五子棋\欢乐五子棋\bin\Debug\欢乐五子棋.pdb
+H:\我的文件\欢乐五子棋\欢乐五子棋\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+H:\我的文件\欢乐五子棋\欢乐五子棋\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+H:\我的文件\欢乐五子棋\欢乐五子棋\bin\Debug\Interop.WMPLib.dll
+H:\我的文件\欢乐五子棋\欢乐五子棋\bin\Debug\AxInterop.WMPLib.dll
+H:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csprojAssemblyReference.cache
+H:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\Interop.WMPLib.dll
+H:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\AxInterop.WMPLib.dll
+H:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.ResolveComReference.cache
+H:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.CPTMain.resources
+H:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.MainForm.resources
+H:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.EVWMain.resources
+H:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.OLMain.resources
+H:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.Properties.Resources.resources
+H:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.QPYS.resources
+H:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.GenerateResource.cache
+H:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.CoreCompileInputs.cache
+H:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csproj.CopyComplete
+H:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.exe
+H:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\欢乐五子棋.pdb
+E:\我的文件\欢乐五子棋\欢乐五子棋\obj\Debug\hlwzq.csprojResolveAssemblyReference.cache
