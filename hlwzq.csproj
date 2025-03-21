@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1B536F69-5A03-4D7E-AEEE-20753D3CCAA8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>欢乐五子棋</RootNamespace>
+    <AssemblyName>欢乐五子棋</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IrisSkin2">
+      <HintPath>..\..\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="IrisSkin2.2006.3.22.45.Fakes">
+      <HintPath>..\..\IrisSkin2.2006.3.22.45.Fakes.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BGI.cs" />
+    <Compile Include="ChessBoard.cs" />
+    <Compile Include="CPTMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CPTMain.Designer.cs">
+      <DependentUpon>CPTMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CPT\CPTChessBoard.cs" />
+    <Compile Include="CPT\Computer.cs" />
+    <Compile Include="CPT\Rule.cs" />
+    <Compile Include="CPT\Stone.cs" />
+    <Compile Include="EVW\Check.cs" />
+    <Compile Include="EVW\Rule.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EVWMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EVWMain.Designer.cs">
+      <DependentUpon>EVWMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainSize.cs" />
+    <Compile Include="OLMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OLMain.Designer.cs">
+      <DependentUpon>OLMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="QPYS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QPYS.Designer.cs">
+      <DependentUpon>QPYS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rule.cs" />
+    <Compile Include="EVWStone.cs" />
+    <EmbeddedResource Include="CPTMain.resx">
+      <DependentUpon>CPTMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EVWMain.resx">
+      <DependentUpon>EVWMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OLMain.resx">
+      <DependentUpon>OLMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QPYS.resx">
+      <DependentUpon>QPYS.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\63de5277f2109b71fd5b194a3d8e02e239c77b6518510-XRsiE2_fw658.jfif" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\棋子图片\黑.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\棋子图片\白.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\min_default_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_default.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\内容.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_main.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10b2OOOPIC34_1024.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\发送.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
